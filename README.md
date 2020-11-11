@@ -1,4 +1,7 @@
-## RockPaperScissors
+## Rock Paper Scissors
 
-This project is a basic version of Rock Paper Scissors written in JavaScript, played using the console and prompt boxes.
-It was a project as part of [The Odin Project](https://www.theodinproject.com), to demonstrate my knowledge of basics such as functions, strings, and variables.
+Full Version of Rock Paper Scissor Game 
+Part of The Odin Project - [TOP](https://www.theodinproject.com/)
+
+Try the [game ](https://animeshry.github.io/rock-paper-scissors-js/)
+
